@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epixauqo.github.io/Nvd/sitemap_index.txt
+Sitemap: https://epixauqo.github.io/bjc/sitemap_index.txt
+Sitemap: https://epixauqo.github.io/hPC/sitemap_index.txt
+Sitemap: https://epixauqo.github.io/qYi/sitemap_index.txt
